@@ -1,5 +1,23 @@
+# Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Environment
 .env
+
+# VS Code
 .vscode/
+
+# SQLite Database
+*.db
+
+# Jupyter autosaves
+*.ipynb_checkpoints
+
+# Processed datasets (optional)
+data/processed/*.csv
+
+# Reports generated during analysis (optional)
+reports/*.csv
+reports/*.png
